@@ -1,0 +1,7 @@
+faster-whisper
+librosa==0.10.1
+scipy==1.11.4
+numba==0.58.1
+joblib
+soundfile
+jiwer
