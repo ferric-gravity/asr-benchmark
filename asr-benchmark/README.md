@@ -47,9 +47,6 @@ streaming_asr.py
 metrics.py
 benchmark.py
 
-results/
-results.txt
-
 requirements.txt
 README.md
 
